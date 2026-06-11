@@ -68,3 +68,7 @@ Changing ColorsEdit client/src/index.css and update CSS variables:--primary: #1a
 
 •Mobile browsers (iOS Safari 14+, Chrome Android 90+)DeploymentThe project is ready for deployment on any static hosting platform:•Manus WebDev (included)•Vercel•Netlify•AWS S3 + CloudFront•Any Node.js hostingFuture Enhancements1.Add suggested question buttons for quick replies2.Implement conversation history with local storage3.Add user feedback system (thumbs up/down)4.Integrate with backend for dynamic FAQ updates5.Add analytics to track popular questions6.Multi-language supportLicenseMITAuthorBuilt for CoreTech Innovations Internship ProjectWebsite URL: https://coretechweb-jsbwvqsu.manus.space
 Live Demo: Available at the URL above
+
+Screen Shots 
+Screenshot_20260611_235337_Chrome.jpg
+Screenshot_20260611_235344_Chrome.jpg
